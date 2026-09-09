@@ -3,15 +3,15 @@ A homework repo for CIS-486
 ### **P.S. for Dr. Cumbie**
 I have been using project Golf as a chance to work on a fun game [Birdwatching-Sim](https://github.com/edmullins/Birdwatching-Simulator/tree/dev). Not quite the static html you had talked about. I'm making very good progress (feel free to check out the render in the readme). Would be okay if I used this work for Golf as well as other project(s) we have later?
 ## Table of Contents :running::
-- [Learn Node.js](#learn-nodejs)
-- [Learn Node.js: Fundamentals](#learn-nodejs-fundamentals)
-- [Learn Node.js: Setting up a server](#learn-nodejs-setting-up-a-server)
-- [Intro to Back-End Programming](#intro-to-back-end-programming)
-- [Learn Git: Intro](#learn-git-intro)
-- [Learn Git: Branching and Collaboration](#learn-git-branching-and-collaboration)
-- [Learn Testing for Website Development: Server Testing](#learn-testing-for-website-development-server-testing)
-- [Google Associate Cloud Engineer: GCP Ecosystem](#google-associate-cloud-engineer-gcp-ecosystem)
-- [Using Git for DevOps: Using Git Effectively](#using-git-for-devops-using-git-effectively)
+1. [Learn Node.js](#learn-nodejs)
+2. [Learn Node.js: Fundamentals](#learn-nodejs-fundamentals)
+3. [Learn Node.js: Setting up a server](#learn-nodejs-setting-up-a-server)
+4. [Intro to Back-End Programming](#intro-to-back-end-programming)
+5. [Learn Git: Intro](#learn-git-intro)
+6. [Learn Git: Branching and Collaboration](#learn-git-branching-and-collaboration)
+7. [Learn Testing for Website Development: Server Testing](#learn-testing-for-website-development-server-testing)
+8. [Google Associate Cloud Engineer: GCP Ecosystem](#google-associate-cloud-engineer-gcp-ecosystem)
+9. [Using Git for DevOps: Using Git Effectively](#using-git-for-devops-using-git-effectively)
 
 ## Learn Node.js
 <img width="1211" height="328" alt="mullins-codeacademy-learn-nodejs" src="https://github.com/user-attachments/assets/7e10bd37-3c6f-4a2d-904f-4d34f9c16582" />
