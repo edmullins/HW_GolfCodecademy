@@ -1,4 +1,4 @@
-# HW_GolfCodecademy :collision:
+# Homework Golf Code academy :collision:
 A homework repo for CIS-486  
 ### **P.S. for Dr. Cumbie**
 I have been using project Golf as a chance to work on a fun game [Birdwatching-Sim](https://github.com/edmullins/Birdwatching-Simulator/tree/dev). Not quite the static html you had talked about. I'm making very good progress (feel free to check out the render in the readme). Would be okay if I used this work for Golf as well as other project(s) we have later?
